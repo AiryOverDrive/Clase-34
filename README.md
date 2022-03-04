@@ -1,2 +1,1 @@
-# Clase-34
-Fortinaitu de babjiu
+Plantilla del código C34
